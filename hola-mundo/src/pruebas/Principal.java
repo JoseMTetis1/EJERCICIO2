@@ -8,6 +8,8 @@ public class Principal {
 		System.out.println("ella no me ama");
 		System.out.println("top 5 makakos");
 		System.out.println("eseba carayo");
+		int numeroConchesumare = 5 ;
+		System.out.println(numeroConchesumare);
 	}
 
 }
